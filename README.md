@@ -1,6 +1,6 @@
-# AutoTarefas
+﻿# AutoTarefas
 
-[![CI](https://github.com/GuilhermeCostaProenca/autotarefas/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/autotarefas/actions/workflows/ci.yml)
+[![CI](https://github.com/GuilhermeCostaProenca/workflow-automation-studio/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/workflow-automation-studio/actions/workflows/ci.yml)
 
 Digital product repository focused on a real market pain with portfolio-grade execution.
 
@@ -38,3 +38,4 @@ React, Fastify, Playwright, PostgreSQL, Redis
 
 ## Main risks
 Mudancas de interface em sistemas terceiros e robustez de automacoes
+
