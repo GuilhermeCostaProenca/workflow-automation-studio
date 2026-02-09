@@ -1,12 +1,12 @@
 # BACKLOG
 
-- [ ] 1. Refinar problema, persona e proposta de valor no PRD.
-- [ ] 2. Definir arquitetura inicial e decis?es t?cnicas principais.
-- [ ] 3. Criar setup local com vari?veis de ambiente e instru??es.
-- [ ] 4. Implementar autentica??o/autoriza??o base.
-- [ ] 5. Implementar fluxo principal do MVP ponta a ponta.
-- [ ] 6. Adicionar valida??es, tratamento de erro e logs estruturados.
-- [ ] 7. Cobrir fluxo cr?tico com testes automatizados.
-- [ ] 8. Configurar CI para lint/test/build.
-- [ ] 9. Documentar trade-offs t?cnicos e decis?es de produto.
-- [ ] 10. Publicar release v1.0.0 com changelog e demo.
+- [ ] 1. Refine problem, persona and value proposition in PRD.
+- [ ] 2. Define initial architecture and key technical decisions.
+- [ ] 3. Set up local environment and config templates.
+- [ ] 4. Implement baseline auth and permission model.
+- [ ] 5. Implement core MVP flow end-to-end.
+- [ ] 6. Add validation, error handling and structured logging.
+- [ ] 7. Cover critical flow with automated tests.
+- [ ] 8. Configure CI for lint, test and build.
+- [ ] 9. Document technical trade-offs and product decisions.
+- [ ] 10. Publish v1.0.0 with changelog and demo evidence.

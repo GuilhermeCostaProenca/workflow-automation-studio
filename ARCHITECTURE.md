@@ -1,26 +1,26 @@
 # ARCHITECTURE - AutoTarefas
 
-## Objetivo t?cnico
-Entregar base escal?vel para validar o MVP rapidamente sem comprometer qualidade.
+## Technical objective
+Deliver a scalable foundation for fast MVP validation without sacrificing quality.
 
-## Componentes iniciais
-1. Frontend web/app para experi?ncia principal.
-2. API de dom?nio para regras de neg?cio.
-3. Banco relacional para persist?ncia transacional.
-4. Camada ass?ncrona para tarefas pesadas e integra??es.
+## Initial components
+1. Frontend app for primary user experience.
+2. Domain API for business rules.
+3. Relational database for transactional persistence.
+4. Async layer for heavy jobs and integrations.
 
-## Decis?es de arquitetura
-- Modulariza??o por dom?nio para reduzir acoplamento.
-- Contratos expl?citos de API e versionamento desde o in?cio.
-- Observabilidade b?sica: logs estruturados e health checks.
-- Seguran?a por padr?o: autentica??o, autoriza??o e valida??o de entrada.
+## Architecture decisions
+- Domain-based modularization to reduce coupling.
+- Explicit API contracts and versioning from day one.
+- Basic observability with structured logs and health checks.
+- Security by default: auth, authorization and input validation.
 
-## Qualidade e engenharia
-- Lint + testes automatizados no CI.
-- Estrat?gia de migra??o de banco versionada.
-- Ambiente local reproduz?vel com documenta??o clara.
+## Engineering quality
+- Lint + automated tests in CI.
+- Versioned database migrations.
+- Reproducible local environment with clear docs.
 
-## Evolu??o prevista
-- Multi-tenant quando houver sinal de product-market fit.
-- Filas/eventos para desacoplar integra??es.
-- Escalonamento horizontal dos servi?os cr?ticos.
+## Expected evolution
+- Multi-tenant model after product-market signal.
+- Queue/events to decouple integrations.
+- Horizontal scaling of critical services.

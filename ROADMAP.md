@@ -1,11 +1,11 @@
 # Roadmap
 
 ## MVP
-- Definir escopo e arquitetura.
-- Entregar fluxo principal ponta a ponta.
-- Consolidar testes e CI.
+- Define scope and architecture.
+- Deliver core flow end-to-end.
+- Consolidate tests and CI.
 
 ## Next
-- Aumentar cobertura de testes e observabilidade.
-- Evoluir integra??es e escalabilidade.
-- Preparar trilha de monetiza??o.
+- Increase test coverage and observability.
+- Evolve integrations and scalability.
+- Prepare monetization path.

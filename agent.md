@@ -1,15 +1,15 @@
-# agent.md - Guia de Execu??o
+# agent.md - Execution Guide
 
-## Miss?o
-Transformar AutoTarefas em um produto de portf?lio com execu??o profissional.
+## Mission
+Transform AutoTarefas into a portfolio-grade product repository.
 
-## Regras de qualidade
-- C?digo limpo e organizado por dom?nio.
-- Commits sem?nticos (`feat:`, `fix:`, `chore:`, `docs:`).
-- Testes nos fluxos cr?ticos.
-- CI validando build e testes.
+## Quality rules
+- Keep code modular and maintainable.
+- Use semantic commits (`feat:`, `fix:`, `chore:`, `docs:`).
+- Cover critical flows with tests.
+- Keep CI always green.
 
-## Prioridades
-1. Fluxo principal funcionando.
-2. Qualidade e confiabilidade.
-3. Documenta??o orientada a demonstra??o.
+## Priorities
+1. Core flow working.
+2. Reliability and quality.
+3. High-signal documentation.
